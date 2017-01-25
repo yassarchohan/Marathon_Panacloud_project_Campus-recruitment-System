@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "528259600092",
+    "firebase_url": "https://campus-recruiment-system.firebaseio.com",
+    "project_id": "campus-recruiment-system",
+    "storage_bucket": "campus-recruiment-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528259600092:android:4f3a17ca3d58c63e",
+        "android_client_info": {
+          "package_name": "com.example.ubitian.campus_recruiment_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528259600092-0crjbgh1lsqrfaamgpcfig256kbhofni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [ { "current_key":"" } ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
